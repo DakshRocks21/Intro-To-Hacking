@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /flag.html/
+Disallow: /flag.txt/
