@@ -1,0 +1,8 @@
+myFirstWbsite = "CTF{h3110_w0r1d}"
+"""
+Base64 ( NjcgODQgNzAgMTIzIDEwNCA1MSA0OSA0OSA0OCA5NSAxMTkgNDggMTE0IDQ5IDEwMCAxMjU= ) 
+--> 
+ASSCI ( 67 84 70 123 104 51 49 49 48 95 119 48 114 49 100 125 )
+--> 
+Answer = CTF{h3110_w0r1d}
+"""
